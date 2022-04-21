@@ -10,6 +10,7 @@ Assignment 2
 Q1.ipynb: complete code with comments and markdowns for question 1  
 Q2.ipynb: complete code with comments and markdowns for question 2  
 Report.pdf: report with all the observations, formulae and explanations for assignment  
+Images: contains graphs and report images
 
 ## .gitignore Description
 All the data files are stored in the Dataset folder which is present in the root folder.
@@ -46,3 +47,10 @@ Dataset chosen for this assignment is [Wikipedia Vote Network](https://snap.stan
   - Authority score is calculated for each node and top 10 nodes with highest Authority score are displayed
 - Explanation
   - Explanation and comparison of algorithms can be found in the report
+
+## Report
+![Report 1](/Images/Report/Report-1.png)  
+![Report 2](/Images/Report/Report-2.png)  
+![Report 3](/Images/Report/Report-3.png)  
+![Report 4](/Images/Report/Report-4.png)  
+![Report 5](/Images/Report/Report-5.png)
