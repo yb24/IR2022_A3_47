@@ -1,10 +1,10 @@
-# IR2022_A2_47
+# IR2022_A3_47
 
 ## Assignment Info
 Course: Information Retrieval [CSE508]  
 Semester: Winter 2022  
 Group: 47  
-Assignment 2
+Assignment 3
 
 ## Repository Description
 Q1.ipynb: complete code with comments and markdowns for question 1  
